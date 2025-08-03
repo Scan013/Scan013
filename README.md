@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hi, I'm Aleksandr 👋
 
+🎮 QA Engineer/QA Lead, 8 years in mobile gaming. 🎮
+I am studying the development of neural networks.
+
+__Interests:__
+- Game development
+- Neural networks
+
+__Contact:__
+_https://t.me/Scan013_
 <!--
 **Scan013/Scan013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
