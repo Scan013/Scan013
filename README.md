@@ -1,6 +1,6 @@
 ## Hi, I'm Aleksandr 👋
 
-🎮 QA Engineer/QA Lead, 8 years in mobile gaming. 🎮
+🎮 QA Engineer/QA Lead, 8 years in mobile gaming. 🎮  
 I am studying the development of neural networks.
 
 __Interests:__
